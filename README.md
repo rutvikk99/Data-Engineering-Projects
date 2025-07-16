@@ -27,7 +27,7 @@
 
      * **Vendor Master Data** ( SAP HANA export)
      * **Purchase Orders** (MySQL export)
-   * Store as CSV files locally or in GitHub repo.
+
 
 2. **Azure Data Lake Setup**
 
