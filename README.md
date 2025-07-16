@@ -12,7 +12,7 @@
 * **Storage**: Azure Data Lake Gen2 (Bronze, Silver, Gold)
 * **Processing**: Azure Data Factory (ADF) for orchestration, Databricks for transformations
 * **Database/Warehouse**: Azure Synapse Analytics
-* **Visualization**: Power BI (or placeholder dashboard image)
+* **Visualization**: Power BI 
 * **Languages**: Python (PySpark for Databricks), SQL
 * **CI/CD**: Azure DevOps (Pipeline YAML files)
 * **Version Control**: GitHub repo
